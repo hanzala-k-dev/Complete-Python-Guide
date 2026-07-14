@@ -43,3 +43,5 @@ Once the basics are solid, the guide transitions into powerful libraries used fo
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/hanzala-k-dev/Complete-Python-Guide.git](https://github.com/hanzala-k-dev/Complete-Python-Guide.git)
+
+   Happy Coding! Built with 💻 by hanzala-k-dev.
