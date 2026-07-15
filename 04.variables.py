@@ -7,7 +7,7 @@ name = "Hanzala"
 print(name)  # Output: Hanzala
 
 # Python can't parse bare identifiers as strings
-# name = Saad
+# name = Misbah
 # print(name)
 
 # Reassign name to an integer value
